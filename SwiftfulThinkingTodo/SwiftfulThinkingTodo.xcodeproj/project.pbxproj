@@ -11,6 +11,7 @@
 		43309AA12A58FF4B00C98BBE /* AddItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43309AA02A58FF4B00C98BBE /* AddItemView.swift */; };
 		43309AA42A592C2E00C98BBE /* Item.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43309AA32A592C2E00C98BBE /* Item.swift */; };
 		43309AA72A59347B00C98BBE /* ListViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43309AA62A59347B00C98BBE /* ListViewModel.swift */; };
+		43309AA92A5A593B00C98BBE /* NoItemsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43309AA82A5A593B00C98BBE /* NoItemsView.swift */; };
 		43B78C862A58F61200B69A92 /* SwiftfulThinkingTodoApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43B78C852A58F61200B69A92 /* SwiftfulThinkingTodoApp.swift */; };
 		43B78C8A2A58F61300B69A92 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 43B78C892A58F61300B69A92 /* Assets.xcassets */; };
 		43B78C8D2A58F61300B69A92 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 43B78C8C2A58F61300B69A92 /* Preview Assets.xcassets */; };
@@ -22,6 +23,7 @@
 		43309AA02A58FF4B00C98BBE /* AddItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddItemView.swift; sourceTree = "<group>"; };
 		43309AA32A592C2E00C98BBE /* Item.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Item.swift; sourceTree = "<group>"; };
 		43309AA62A59347B00C98BBE /* ListViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListViewModel.swift; sourceTree = "<group>"; };
+		43309AA82A5A593B00C98BBE /* NoItemsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NoItemsView.swift; sourceTree = "<group>"; };
 		43B78C822A58F61200B69A92 /* SwiftfulThinkingTodo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftfulThinkingTodo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		43B78C852A58F61200B69A92 /* SwiftfulThinkingTodoApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftfulThinkingTodoApp.swift; sourceTree = "<group>"; };
 		43B78C892A58F61300B69A92 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -99,6 +101,7 @@
 				43B78C942A58F6F300B69A92 /* ListView.swift */,
 				43309A9E2A58FB5A00C98BBE /* ListRowView.swift */,
 				43309AA02A58FF4B00C98BBE /* AddItemView.swift */,
+				43309AA82A5A593B00C98BBE /* NoItemsView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -178,6 +181,7 @@
 				43309AA72A59347B00C98BBE /* ListViewModel.swift in Sources */,
 				43B78C862A58F61200B69A92 /* SwiftfulThinkingTodoApp.swift in Sources */,
 				43B78C952A58F6F300B69A92 /* ListView.swift in Sources */,
+				43309AA92A5A593B00C98BBE /* NoItemsView.swift in Sources */,
 				43309A9F2A58FB5A00C98BBE /* ListRowView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
